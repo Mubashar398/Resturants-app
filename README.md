@@ -17,3 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 FIGMA LINK
 https://www.figma.com/design/CQ8CKWXkc1e4JzTL6yigCa/Mubashar?node-id=0-1&p=f&t=zfgRKzMChbvCbtkh-0
+CV LINK
+https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/mmubashar-karim/8eac7daf-8f8f-4872-8bbd-fe7653eccd3b?view=html
